@@ -10,7 +10,7 @@ import android.widget.TextView;
 import android.widget.VideoView;
 
 import java.io.File;
-//有很多的硬编码
+//有很多的硬编码,这是一个问题
 public class SplashActivity extends AppCompatActivity {
 
     private FullScreeVideoView mVideoView;
